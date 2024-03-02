@@ -2,6 +2,7 @@ import Login from './Login'
 import './App.css';
 import './myStyles.css'
 import log from './pictures/logo.jpg'
+import First from './First';
 function App() {
  
     return (
@@ -18,6 +19,7 @@ function App() {
           </header>
           <br></br>
           <Login/>
+          <First/>
           <footer>
 
 
