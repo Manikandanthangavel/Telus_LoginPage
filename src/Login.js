@@ -45,7 +45,7 @@ class Login extends Component {
            </p> </div>
            <br></br>
            <p className="ar">New to TELUS? <br></br><br></br>
-                   <button className="btn btn-success">Register now > </button>
+                   <button className="btn btn-success">Register now  </button>
              </p>
             </form>
         </div>
