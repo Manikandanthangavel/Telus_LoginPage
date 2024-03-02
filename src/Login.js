@@ -13,7 +13,7 @@ class Login extends Component {
         <div className="container">
             <div className='center-box'>
             <h2>Log in</h2>
-            <p>Enter your existing TELUS account details here</p>
+            <p>Enter your existing Personal account details here</p>
             <form className='form'>
                 <div className='as'>
                 <p> Email / Username</p>
