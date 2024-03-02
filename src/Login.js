@@ -7,7 +7,7 @@ class Login extends Component {
 <div>
 <section className="loginbox">
         <div className="container">
-            <h1 className='kk'>MY TELUS</h1>
+            <h1 className='kk'>MY website</h1>
         </div>
        
         <div className="container">
