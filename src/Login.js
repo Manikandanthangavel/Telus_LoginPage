@@ -7,13 +7,13 @@ class Login extends Component {
 <div>
 <section className="loginbox">
         <div className="container">
-            <h1 className='kk'>MY TELUS</h1>
+            <h1 className='kk'>MY website</h1>
         </div>
        
         <div className="container">
             <div className='center-box'>
             <h2>Log in</h2>
-            <p>Enter your existing Personal account details here</p>
+            <p>Enter your existing first branch merge check account details here</p>
             <form className='form'>
                 <div className='as'>
                 <p> Email / Username</p>
@@ -45,7 +45,7 @@ class Login extends Component {
            </p> </div>
            <br></br>
            <p className="ar">New to TELUS? <br></br><br></br>
-                   <button className="btn btn-success">Register now > </button>
+                   <button className="btn btn-success">Register now  </button>
              </p>
             </form>
         </div>
